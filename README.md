@@ -1,2 +1,0 @@
-# GoBo
-MERN
